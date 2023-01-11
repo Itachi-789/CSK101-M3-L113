@@ -28,7 +28,7 @@ function createCookie(newCookie) {
       } else {
         reject('There are no such cookies');
       }
-    }, 2000);
+    }, 2000); 
   });
 }
 
